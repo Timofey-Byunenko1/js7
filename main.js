@@ -27,7 +27,7 @@ removeElement([1,3,4,5,6,8], 6)
 
 
 
-//не понял//
+// понял//
 function Allnumbers(massiv) {
      const nums = massiv.filter(item => typeof item === 'number');
 
